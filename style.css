@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    background-color: rgb(31, 112, 145);
+    color: white;
+    padding: 1rem;
+
+}
+
+body{
+    
+    color: white;
+    
+}
+   
+
+h1{
+    text-align: center;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.photo{
+    margin: 5rem 50%;
+    background-color: white;
+    color:black;
+}
+.detail{
+    background-color: rgb(84, 131, 170);
+    padding: 5px;
+    width: 450px;
+}
+footer{
+    background-color: rgb(14, 86, 88);
+    margin:50px 10rem;
+    padding:1rem;
+}
